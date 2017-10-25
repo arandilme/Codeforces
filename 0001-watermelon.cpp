@@ -1,6 +1,5 @@
 /*
  * watermelon.cpp
- *
  *  Created on: Oct 21, 2017
  *      Author: athena
  * http://codeforces.com/problemset/problem/4/A
