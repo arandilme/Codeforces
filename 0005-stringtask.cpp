@@ -1,8 +1,8 @@
 /*
  * stringtask.cpp
+ * http://codeforces.com/problemset/problem/118/A
  *  Created on: Oct 22, 2017
  *      Author: athena
- * http://codeforces.com/problemset/problem/118/A
  * 31609597 	GNU C++14 	Accepted 	30 ms 	1880 KB 	2017-10-22 19:51:17 	2017-10-22 19:51:17
  */
 
