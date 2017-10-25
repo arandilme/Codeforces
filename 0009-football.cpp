@@ -1,8 +1,9 @@
 /*
  * football.cpp
- *
+ * http://codeforces.com/problemset/problem/96/A
  *  Created on: Oct 23, 2017
  *      Author: athena
+ * 31661421 	GNU C++14 	Accepted 	60 ms 	1876 KB 	2017-10-23 23:00:01 	2017-10-23 23:00:01
  */
 
 #include <iostream>
