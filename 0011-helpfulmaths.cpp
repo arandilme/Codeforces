@@ -1,10 +1,9 @@
 /*
  * helpfulmaths.cpp
- *
+ * http://codeforces.com/problemset/problem/339/A
  *  Created on: Oct 25, 2017
  *      Author: athena
- *
- *  http://codeforces.com/contest/339/submission/31693931
+ * 31693931 	GNU C++14 	Accepted 	30 ms 	1876 KB 	2017-10-24 23:56:22 	2017-10-24 23:56:22
  */
 
 #include <iostream>
