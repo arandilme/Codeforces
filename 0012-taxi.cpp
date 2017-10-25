@@ -1,8 +1,9 @@
 /*
  * taxi.cpp
- *
+ * http://codeforces.com/problemset/problem/158/B
  *  Created on: Oct 25, 2017
  *      Author: athena
+ * 31695302 	GNU C++14 	Accepted 	186 ms 	8 KB 	2017-10-25 01:59:22 	2017-10-25 01:59:22
  */
 
 #include <iostream>
