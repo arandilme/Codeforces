@@ -1,8 +1,8 @@
 /*
 * waytoolongwords.cpp
+* http://codeforces.com/problemset/problem/71/A
 *  Created on: Oct 21, 2017
 *     Author: athena
-* http://codeforces.com/problemset/problem/71/A
 * 31582116 	GNU C++14 	Accepted 	30 ms 	1876 KB 	2017-10-21 20:24:32 	2017-10-21 20:24:32
 */
 
