@@ -1,8 +1,8 @@
 /*
  * nextround.cpp
+ * http://codeforces.com/problemset/problem/158/A
  *  Created on: Oct 22, 2017
  *      Author: athena
- * http://codeforces.com/problemset/problem/158/A
  * 31608946 	GNU C++14 	Accepted 	60 ms 	1880 KB 	2017-10-22 19:13:36 	2017-10-22 19:13:36
  */
 
