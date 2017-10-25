@@ -3,6 +3,8 @@
  *
  *  Created on: Oct 21, 2017
  *      Author: athena
+ * http://codeforces.com/problemset/problem/4/A
+ * 31580871 	GNU C++14 	Accepted 	30 ms 	1880 KB 	2017-10-21 19:31:33 	2017-10-21 19:31:33 	
  */
 
 #include <iostream>
