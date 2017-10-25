@@ -1,6 +1,6 @@
 /*
  * bitplusplus.cpp
- *
+ * http://codeforces.com/problemset/problem/282/A
  *  Created on: Oct 23, 2017
  *      Author: athena
  * http://codeforces.com/problemset/problem/282/A
