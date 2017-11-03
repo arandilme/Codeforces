@@ -18,7 +18,6 @@ int main() {
 	vector<int> levels;
 
 	int p, a;
-
 	cin >> p;
 
 	for (int i = 0; i < p; i++) {
@@ -27,7 +26,6 @@ int main() {
 	}
 
 	int q, b;
-
 	cin >> q;
 
 	for (int j = 0; j < q; j++) {
